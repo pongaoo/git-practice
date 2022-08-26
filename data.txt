@@ -1,3 +1,4 @@
 Name: Andrej
 Age: 37
 Favorite Color: Dark Blue
+emote: lol
